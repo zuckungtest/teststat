@@ -166,15 +166,15 @@
 <table>
 	<tr>
 		<td> </td>
-		<td>2025-10-17</td>
-		<td>2025-10-18</td>
-		<td>2025-10-19</td>
 		<td>2025-10-20</td>
 		<td>2025-10-21</td>
 		<td>2025-10-22</td>
 		<td>2025-10-23</td>
 		<td>2025-10-24</td>
+		<td>2025-10-24</td>
 		<td>2025-10-25</td>
+		<td>2025-10-25</td>
+		<td>2025-10-26</td>
 	</tr>
 	<tr>
 		<td>page views</td>
@@ -183,10 +183,10 @@
 		<td>0</td>
 		<td>0</td>
 		<td>0</td>
+		<td>39</td>
 		<td>0</td>
-		<td>0</td>
-		<td>0</td>
-		<td>0</td>
+		<td>92</td>
+		<td>22</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -195,10 +195,10 @@
 		<td>0</td>
 		<td>0</td>
 		<td>0</td>
+		<td>1</td>
 		<td>0</td>
-		<td>0</td>
-		<td>0</td>
-		<td>0</td>
+		<td>3</td>
+		<td>2</td>
 	</tr>
 </table>
 <br>
@@ -212,10 +212,10 @@
 	</tr>
 	<tr>
 		<td>2025-10-11</td>
-		<td>0</td>
-		<td>0</td>
-		<td>0</td>
-		<td>0</td>
+		<td>153</td>
+		<td>6</td>
+		<td>92</td>
+		<td>3</td>
 	</tr>
 	<tr>
 		<td>days since start</td>
@@ -226,8 +226,8 @@
 	</tr>
 	<tr>
 		<td>15</td>
-		<td>0.00</td>
-		<td>0.00</td>
+		<td>10.20</td>
+		<td>0.40</td>
 		<td></td>
 		<td></td>
 	</tr>
