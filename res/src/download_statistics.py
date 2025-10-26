@@ -97,8 +97,7 @@ def write_usercount():
 			newdates.append(timestamp + '|' + str(count) + '|' + str(uniques))
 			last_date = datetime.strptime(timestamp, '%Y-%m-%dT00:00:00Z')
 		except:
-			last_date = last_date - timedelta(days=1)
-						
+			last_date = last_date - timedelta(days=1)	
 			timestamp = last_date.strftime('%Y-%m-%dT00:00:00Z')
 			count = 0
 			uniques = 0
@@ -117,22 +116,24 @@ def write_usercount():
 		with open('res/usercount.txt', 'r') as source:
 			olddates = source.readlines()
 		for olddate in olddates:
+			if olddate == '\n':
+				continue
 			found = False
 			for newdate in newdates:
 				newdatedate = newdate.split('|')[0]
 				if olddate.startswith(newdatedate):
-					newlist.append(newdate + '\n')
+					newlist.append(newdate)
 					found = True
 					break
 			if found == False:
-				newlist.append(olddate + '\n^')
+				newlist.append(olddate.strip())
 		for newdate in newdates:
-			if not newdate + '\n' in newlist:
-				newlist.append(newdate + '\n')
+			if not newdate in newlist:
+				newlist.append(newdate)
 		newlist.sort()
 		with open('res/usercount.txt', 'w') as target:
 			for each in newlist:
-				target.writelines(each)
+				target.writelines(each + '\n')
 
 def run():
 	global username, token, repo
@@ -146,7 +147,7 @@ def run():
 		if line.startswith('repo :'):
 			repo = line[7:].strip()
 	username = repo.split('/')[0]
-	token =  os.environ["TOKEN"]
+	token =  os.environ["PAT"]
 	# test if token is there
 	print("Token?: ", bool(token))
 	print("Lenght: ", len(token) if token else 0)
