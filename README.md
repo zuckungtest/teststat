@@ -21,8 +21,8 @@
 		<td>7</td>
 		<td>7</td>
 		<td>7</td>
-		<td>7</td>
-		<td></td>
+		<td>8</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -32,8 +32,8 @@
 		<td>7</td>
 		<td>7</td>
 		<td>7</td>
-		<td>7</td>
-		<td></td>
+		<td>8</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -43,8 +43,8 @@
 		<td>9</td>
 		<td>9</td>
 		<td>9</td>
-		<td>9</td>
-		<td></td>
+		<td>10</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>disable.person.ships</td>
@@ -54,8 +54,8 @@
 		<td>6</td>
 		<td>6</td>
 		<td>6</td>
-		<td>6</td>
-		<td></td>
+		<td>7</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>disable.spaceport.repeatables</td>
@@ -65,8 +65,8 @@
 		<td>7</td>
 		<td>7</td>
 		<td>7</td>
-		<td>7</td>
-		<td></td>
+		<td>8</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -76,8 +76,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>36</td>
-		<td>0</td>
+		<td>41</td>
+		<td>5</td>
 	</tr>
 </table>
 </sub></sup>
@@ -102,8 +102,8 @@
 		<td>9</td>
 		<td>9</td>
 		<td>9</td>
-		<td>9</td>
-		<td></td>
+		<td>10</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>disable.spaceport.repeatables</td>
@@ -113,8 +113,8 @@
 		<td>7</td>
 		<td>7</td>
 		<td>7</td>
-		<td>7</td>
-		<td></td>
+		<td>8</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -124,8 +124,8 @@
 		<td>7</td>
 		<td>7</td>
 		<td>7</td>
-		<td>7</td>
-		<td></td>
+		<td>8</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
@@ -135,8 +135,8 @@
 		<td>7</td>
 		<td>7</td>
 		<td>7</td>
-		<td>7</td>
-		<td></td>
+		<td>8</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>disable.person.ships</td>
@@ -146,8 +146,8 @@
 		<td>6</td>
 		<td>6</td>
 		<td>6</td>
-		<td>6</td>
-		<td></td>
+		<td>7</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -157,8 +157,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>36</td>
-		<td>0</td>
+		<td>41</td>
+		<td>5</td>
 	</tr>
 </table>
 </sub></sup>
@@ -166,15 +166,15 @@
 <table>
 	<tr>
 		<td> </td>
-		<td>2025-10-19</td>
-		<td>2025-10-18</td>
 		<td>2025-10-17</td>
-		<td>2025-10-16</td>
-		<td>2025-10-15</td>
-		<td>2025-10-14</td>
-		<td>2025-10-13</td>
-		<td>2025-10-12</td>
-		<td>2025-10-11</td>
+		<td>2025-10-18</td>
+		<td>2025-10-19</td>
+		<td>2025-10-20</td>
+		<td>2025-10-21</td>
+		<td>2025-10-22</td>
+		<td>2025-10-23</td>
+		<td>2025-10-24</td>
+		<td>2025-10-25</td>
 	</tr>
 	<tr>
 		<td>page views</td>
@@ -211,7 +211,7 @@
 		<td>highest unique visitors</td>
 	</tr>
 	<tr>
-		<td>2025-10-25</td>
+		<td>2025-10-11</td>
 		<td>0</td>
 		<td>0</td>
 		<td>0</td>
@@ -225,7 +225,7 @@
 		<td></td>
 	</tr>
 	<tr>
-		<td>1</td>
+		<td>15</td>
 		<td>0.00</td>
 		<td>0.00</td>
 		<td></td>
