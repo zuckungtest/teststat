@@ -86,7 +86,6 @@ def write_usercount():
 	date_time = now.strftime("%Y-%m-%d" + 'T00:00:00Z')
 	response = requests.get('https://api.github.com/repos/' + repo + '/traffic/views?per_page=100', auth=(username, token))
 	data = response.json()
-	print(data)
 	print('getting live data from last 14 days:')
 	last_date = now
 	for i in range(0, 15):
