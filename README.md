@@ -1,4 +1,4 @@
-<h6>Plugin download count for zuckungtest/plugins</h6><br>
+<h6>Plugin download count for https://github.com/zuckungtest/plugins/</h6><br>
 <br>
 <h6>Plugin download count, sorted by name</h6><sub><sup><br>
 <table>
@@ -166,7 +166,6 @@
 <table>
 	<tr>
 		<td> </td>
-		<td>2025-10-18</td>
 		<td>2025-10-19</td>
 		<td>2025-10-20</td>
 		<td>2025-10-21</td>
@@ -175,6 +174,7 @@
 		<td>2025-10-24</td>
 		<td>2025-10-25</td>
 		<td>2025-10-26</td>
+		<td>2025-10-27</td>
 	</tr>
 	<tr>
 		<td>page views</td>
@@ -183,10 +183,10 @@
 		<td>0</td>
 		<td>0</td>
 		<td>0</td>
-		<td>0</td>
 		<td>39</td>
 		<td>92</td>
 		<td>39</td>
+		<td>1</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -195,10 +195,10 @@
 		<td>0</td>
 		<td>0</td>
 		<td>0</td>
-		<td>0</td>
 		<td>1</td>
 		<td>3</td>
 		<td>2</td>
+		<td>1</td>
 	</tr>
 </table>
 <br>
@@ -212,8 +212,8 @@
 	</tr>
 	<tr>
 		<td>2025-10-11</td>
-		<td>170</td>
-		<td>6</td>
+		<td>171</td>
+		<td>7</td>
 		<td>92</td>
 		<td>3</td>
 	</tr>
@@ -226,8 +226,8 @@
 	</tr>
 	<tr>
 		<td>16</td>
-		<td>10.62</td>
-		<td>0.38</td>
+		<td>10.69</td>
+		<td>0.44</td>
 		<td></td>
 		<td></td>
 	</tr>
