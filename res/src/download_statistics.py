@@ -124,6 +124,9 @@ def write_usercount():
 				if olddate.startswith(newdatedate):
 					newlist.append(newdate)
 					found = True
+					# remove newdate from newdates
+					newdates.remove(newdate)
+					print('removed ' + newdate + ' from ' + newdates)
 					break
 			if found == False:
 				newlist.append(olddate.strip())
