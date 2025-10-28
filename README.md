@@ -4,13 +4,13 @@
 <table>
 	<tr>
 		<td></td>
-		<td>2025-10-21</td>
 		<td>2025-10-22</td>
 		<td>2025-10-23</td>
 		<td>2025-10-24</td>
 		<td>2025-10-25</td>
 		<td>2025-10-26</td>
 		<td>2025-10-27</td>
+		<td>2025-10-28</td>
 		<td>today +</td>
 	</tr>
 	<tr>
@@ -19,7 +19,7 @@
 		<td>7</td>
 		<td>7</td>
 		<td>7</td>
-		<td>7</td>
+		<td>8</td>
 		<td>8</td>
 		<td>8</td>
 		<td></td>
@@ -30,7 +30,7 @@
 		<td>7</td>
 		<td>7</td>
 		<td>7</td>
-		<td>7</td>
+		<td>8</td>
 		<td>8</td>
 		<td>8</td>
 		<td></td>
@@ -41,7 +41,7 @@
 		<td>9</td>
 		<td>9</td>
 		<td>9</td>
-		<td>9</td>
+		<td>10</td>
 		<td>10</td>
 		<td>10</td>
 		<td></td>
@@ -52,7 +52,7 @@
 		<td>6</td>
 		<td>6</td>
 		<td>6</td>
-		<td>6</td>
+		<td>7</td>
 		<td>7</td>
 		<td>7</td>
 		<td></td>
@@ -63,7 +63,7 @@
 		<td>7</td>
 		<td>7</td>
 		<td>7</td>
-		<td>7</td>
+		<td>8</td>
 		<td>8</td>
 		<td>8</td>
 		<td></td>
@@ -85,13 +85,13 @@
 <table>
 	<tr>
 		<td></td>
-		<td>2025-10-21</td>
 		<td>2025-10-22</td>
 		<td>2025-10-23</td>
 		<td>2025-10-24</td>
 		<td>2025-10-25</td>
 		<td>2025-10-26</td>
 		<td>2025-10-27</td>
+		<td>2025-10-28</td>
 		<td>today +</td>
 	</tr>
 	<tr>
@@ -100,7 +100,7 @@
 		<td>9</td>
 		<td>9</td>
 		<td>9</td>
-		<td>9</td>
+		<td>10</td>
 		<td>10</td>
 		<td>10</td>
 		<td></td>
@@ -111,7 +111,7 @@
 		<td>7</td>
 		<td>7</td>
 		<td>7</td>
-		<td>7</td>
+		<td>8</td>
 		<td>8</td>
 		<td>8</td>
 		<td></td>
@@ -122,7 +122,7 @@
 		<td>7</td>
 		<td>7</td>
 		<td>7</td>
-		<td>7</td>
+		<td>8</td>
 		<td>8</td>
 		<td>8</td>
 		<td></td>
@@ -133,7 +133,7 @@
 		<td>7</td>
 		<td>7</td>
 		<td>7</td>
-		<td>7</td>
+		<td>8</td>
 		<td>8</td>
 		<td>8</td>
 		<td></td>
@@ -144,7 +144,7 @@
 		<td>6</td>
 		<td>6</td>
 		<td>6</td>
-		<td>6</td>
+		<td>7</td>
 		<td>7</td>
 		<td>7</td>
 		<td></td>
@@ -225,9 +225,9 @@
 		<td></td>
 	</tr>
 	<tr>
-		<td>16</td>
-		<td>10.81</td>
-		<td>0.44</td>
+		<td>17</td>
+		<td>10.18</td>
+		<td>0.41</td>
 		<td></td>
 		<td></td>
 	</tr>
