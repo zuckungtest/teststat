@@ -1,18 +1,18 @@
 # DOWNLOADS FOR EACH RELEASE:
-v1.1.2-disable.spaceport.repeatables | downloads: 8
-v1.0.6-better.starts | downloads: 10
-v1.0.3-automata.in.human.space | downloads: 8
-v1.0.2-automata.destruction.0percent | downloads: 8
-v1.0.1-disable.person.ships | downloads: 7
+v1.1.2-disable.spaceport.repeatables | downloads: 9
+v1.0.6-better.starts | downloads: 11
+v1.0.3-automata.in.human.space | downloads: 9
+v1.0.2-automata.destruction.0percent | downloads: 9
+v1.0.1-disable.person.ships | downloads: 8
 
 
 # NUMBER OF RELEASES: 6
-# TOTAL DOWNLOADS: 41
+# TOTAL DOWNLOADS: 46
 
 
 # TOTAL DOWNLOAD NUMBER FOR EACH PLUGIN:
-automata.destruction.0percent 8
-automata.in.human.space 8
-better.starts 10
-disable.person.ships 7
-disable.spaceport.repeatables 8
+automata.destruction.0percent 9
+automata.in.human.space 9
+better.starts 11
+disable.person.ships 8
+disable.spaceport.repeatables 9
