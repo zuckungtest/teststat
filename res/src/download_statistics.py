@@ -171,7 +171,7 @@ def run():
 			repo = line[7:].strip()
 	cur_repo = os.environ['CUR_REPO']
 	username = cur_repo.split('/')[0]
-	token =  os.environ['TOKEN']
+	token =  os.environ['token']
 	# test if token is there
 	print('Token Check')
 	print('	Token?: ', bool(token))
