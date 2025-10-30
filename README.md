@@ -4,69 +4,69 @@
 <table>
 	<tr>
 		<td></td>
-		<td>2025-10-23</td>
 		<td>2025-10-24</td>
 		<td>2025-10-25</td>
 		<td>2025-10-26</td>
 		<td>2025-10-27</td>
 		<td>2025-10-28</td>
 		<td>2025-10-29</td>
+		<td>2025-10-30</td>
 		<td>today +</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
 		<td>7</td>
 		<td>7</td>
-		<td>7</td>
 		<td>8</td>
 		<td>8</td>
 		<td>9</td>
 		<td>10</td>
-		<td>+ 1</td>
+		<td>10</td>
+		<td></td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
 		<td>7</td>
 		<td>7</td>
-		<td>7</td>
 		<td>8</td>
 		<td>8</td>
 		<td>9</td>
 		<td>10</td>
-		<td>+ 1</td>
+		<td>10</td>
+		<td></td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
-		<td>9</td>
 		<td>9</td>
 		<td>9</td>
 		<td>10</td>
 		<td>10</td>
 		<td>11</td>
 		<td>12</td>
-		<td>+ 1</td>
+		<td>12</td>
+		<td></td>
 	</tr>
 	<tr>
 		<td>disable.person.ships</td>
-		<td>6</td>
 		<td>6</td>
 		<td>6</td>
 		<td>7</td>
 		<td>7</td>
 		<td>8</td>
 		<td>9</td>
-		<td>+ 1</td>
+		<td>9</td>
+		<td></td>
 	</tr>
 	<tr>
 		<td>disable.spaceport.repeatables</td>
-		<td>7</td>
 		<td>7</td>
 		<td>7</td>
 		<td>8</td>
 		<td>8</td>
 		<td>9</td>
 		<td>10</td>
-		<td>+ 1</td>
+		<td>10</td>
+		<td></td>
 	</tr>
 	<tr>
 		<td></td>
@@ -77,7 +77,7 @@
 		<td></td>
 		<td></td>
 		<td>51</td>
-		<td>5</td>
+		<td>0</td>
 	</tr>
 </table>
 </sub></sup>
@@ -85,69 +85,69 @@
 <table>
 	<tr>
 		<td></td>
-		<td>2025-10-23</td>
 		<td>2025-10-24</td>
 		<td>2025-10-25</td>
 		<td>2025-10-26</td>
 		<td>2025-10-27</td>
 		<td>2025-10-28</td>
 		<td>2025-10-29</td>
+		<td>2025-10-30</td>
 		<td>today +</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
 		<td>9</td>
 		<td>9</td>
-		<td>9</td>
 		<td>10</td>
 		<td>10</td>
 		<td>11</td>
 		<td>12</td>
-		<td>+ 1</td>
+		<td>12</td>
+		<td></td>
 	</tr>
 	<tr>
 		<td>disable.spaceport.repeatables</td>
 		<td>7</td>
 		<td>7</td>
-		<td>7</td>
 		<td>8</td>
 		<td>8</td>
 		<td>9</td>
 		<td>10</td>
-		<td>+ 1</td>
+		<td>10</td>
+		<td></td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
 		<td>7</td>
 		<td>7</td>
-		<td>7</td>
 		<td>8</td>
 		<td>8</td>
 		<td>9</td>
 		<td>10</td>
-		<td>+ 1</td>
+		<td>10</td>
+		<td></td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
 		<td>7</td>
 		<td>7</td>
-		<td>7</td>
 		<td>8</td>
 		<td>8</td>
 		<td>9</td>
 		<td>10</td>
-		<td>+ 1</td>
+		<td>10</td>
+		<td></td>
 	</tr>
 	<tr>
 		<td>disable.person.ships</td>
 		<td>6</td>
 		<td>6</td>
-		<td>6</td>
 		<td>7</td>
 		<td>7</td>
 		<td>8</td>
 		<td>9</td>
-		<td>+ 1</td>
+		<td>9</td>
+		<td></td>
 	</tr>
 	<tr>
 		<td></td>
@@ -158,7 +158,7 @@
 		<td></td>
 		<td></td>
 		<td>51</td>
-		<td>5</td>
+		<td>0</td>
 	</tr>
 </table>
 </sub></sup>
@@ -186,7 +186,7 @@
 		<td>39</td>
 		<td>3</td>
 		<td>23</td>
-		<td>62</td>
+		<td>67</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
@@ -212,7 +212,7 @@
 	</tr>
 	<tr>
 		<td>2025-10-11</td>
-		<td>258</td>
+		<td>263</td>
 		<td>11</td>
 		<td>92</td>
 		<td>3</td>
@@ -225,9 +225,9 @@
 		<td></td>
 	</tr>
 	<tr>
-		<td>18</td>
-		<td>14.33</td>
-		<td>0.61</td>
+		<td>19</td>
+		<td>13.84</td>
+		<td>0.58</td>
 		<td></td>
 		<td></td>
 	</tr>
