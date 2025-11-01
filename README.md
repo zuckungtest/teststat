@@ -4,21 +4,21 @@
 <table>
 	<tr>
 		<td></td>
-		<td>2025-10-25</td>
 		<td>2025-10-26</td>
 		<td>2025-10-27</td>
 		<td>2025-10-28</td>
 		<td>2025-10-29</td>
 		<td>2025-10-30</td>
 		<td>2025-10-31</td>
+		<td>2025-11-01</td>
 		<td>today +</td>
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
-		<td>7</td>
 		<td>8</td>
 		<td>8</td>
 		<td>9</td>
+		<td>10</td>
 		<td>10</td>
 		<td>10</td>
 		<td>10</td>
@@ -26,10 +26,10 @@
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
-		<td>7</td>
 		<td>8</td>
 		<td>8</td>
 		<td>9</td>
+		<td>10</td>
 		<td>10</td>
 		<td>10</td>
 		<td>10</td>
@@ -37,10 +37,10 @@
 	</tr>
 	<tr>
 		<td>better.starts</td>
-		<td>9</td>
 		<td>10</td>
 		<td>10</td>
 		<td>11</td>
+		<td>12</td>
 		<td>12</td>
 		<td>12</td>
 		<td>12</td>
@@ -48,10 +48,10 @@
 	</tr>
 	<tr>
 		<td>disable.person.ships</td>
-		<td>6</td>
 		<td>7</td>
 		<td>7</td>
 		<td>8</td>
+		<td>9</td>
 		<td>9</td>
 		<td>9</td>
 		<td>9</td>
@@ -59,10 +59,10 @@
 	</tr>
 	<tr>
 		<td>disable.spaceport.repeatables</td>
-		<td>7</td>
 		<td>8</td>
 		<td>8</td>
 		<td>9</td>
+		<td>10</td>
 		<td>10</td>
 		<td>10</td>
 		<td>10</td>
@@ -85,21 +85,21 @@
 <table>
 	<tr>
 		<td></td>
-		<td>2025-10-25</td>
 		<td>2025-10-26</td>
 		<td>2025-10-27</td>
 		<td>2025-10-28</td>
 		<td>2025-10-29</td>
 		<td>2025-10-30</td>
 		<td>2025-10-31</td>
+		<td>2025-11-01</td>
 		<td>today +</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
-		<td>9</td>
 		<td>10</td>
 		<td>10</td>
 		<td>11</td>
+		<td>12</td>
 		<td>12</td>
 		<td>12</td>
 		<td>12</td>
@@ -107,10 +107,10 @@
 	</tr>
 	<tr>
 		<td>disable.spaceport.repeatables</td>
-		<td>7</td>
 		<td>8</td>
 		<td>8</td>
 		<td>9</td>
+		<td>10</td>
 		<td>10</td>
 		<td>10</td>
 		<td>10</td>
@@ -118,10 +118,10 @@
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
-		<td>7</td>
 		<td>8</td>
 		<td>8</td>
 		<td>9</td>
+		<td>10</td>
 		<td>10</td>
 		<td>10</td>
 		<td>10</td>
@@ -129,10 +129,10 @@
 	</tr>
 	<tr>
 		<td>automata.destruction.0percent</td>
-		<td>7</td>
 		<td>8</td>
 		<td>8</td>
 		<td>9</td>
+		<td>10</td>
 		<td>10</td>
 		<td>10</td>
 		<td>10</td>
@@ -140,10 +140,10 @@
 	</tr>
 	<tr>
 		<td>disable.person.ships</td>
-		<td>6</td>
 		<td>7</td>
 		<td>7</td>
 		<td>8</td>
+		<td>9</td>
 		<td>9</td>
 		<td>9</td>
 		<td>9</td>
@@ -225,9 +225,9 @@
 		<td></td>
 	</tr>
 	<tr>
-		<td>20</td>
-		<td>13.15</td>
-		<td>0.55</td>
+		<td>21</td>
+		<td>12.52</td>
+		<td>0.52</td>
 		<td></td>
 		<td></td>
 	</tr>
