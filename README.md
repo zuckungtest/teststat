@@ -32,8 +32,8 @@
 		<td>10</td>
 		<td>10</td>
 		<td>10</td>
-		<td>10</td>
-		<td></td>
+		<td>11</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -76,8 +76,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>51</td>
-		<td>0</td>
+		<td>52</td>
+		<td>1</td>
 	</tr>
 </table>
 </sub></sup>
@@ -106,18 +106,18 @@
 		<td></td>
 	</tr>
 	<tr>
-		<td>disable.spaceport.repeatables</td>
+		<td>automata.in.human.space</td>
 		<td>10</td>
 		<td>10</td>
 		<td>10</td>
 		<td>10</td>
 		<td>10</td>
 		<td>10</td>
-		<td>10</td>
-		<td></td>
+		<td>11</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
-		<td>automata.in.human.space</td>
+		<td>disable.spaceport.repeatables</td>
 		<td>10</td>
 		<td>10</td>
 		<td>10</td>
@@ -157,8 +157,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>51</td>
-		<td>0</td>
+		<td>52</td>
+		<td>1</td>
 	</tr>
 </table>
 </sub></sup>
