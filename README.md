@@ -166,38 +166,38 @@
 <table>
 	<tr>
 		<td> </td>
-		<td>2025-10-22</td>
-		<td>2025-10-23</td>
-		<td>2025-10-24</td>
-		<td>2025-10-25</td>
-		<td>2025-10-26</td>
-		<td>2025-10-27</td>
 		<td>2025-10-28</td>
 		<td>2025-10-29</td>
+		<td>2025-10-30</td>
+		<td>2025-10-31</td>
+		<td>2025-11-01</td>
+		<td>2025-11-02</td>
+		<td>2025-11-03</td>
+		<td>2025-11-04</td>
 		<td>2025-11-05</td>
 	</tr>
 	<tr>
 		<td>page views</td>
-		<td>0</td>
-		<td>0</td>
-		<td>39</td>
-		<td>92</td>
-		<td>39</td>
-		<td>3</td>
 		<td>23</td>
 		<td>67</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
 		<td>1</td>
 	</tr>
 	<tr>
 		<td>unique visitors</td>
+		<td>2</td>
+		<td>2</td>
 		<td>0</td>
 		<td>0</td>
-		<td>1</td>
-		<td>3</td>
-		<td>2</td>
-		<td>1</td>
-		<td>2</td>
-		<td>2</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
+		<td>0</td>
 		<td>1</td>
 	</tr>
 </table>
