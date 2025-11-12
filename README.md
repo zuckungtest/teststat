@@ -4,13 +4,13 @@
 <table>
 	<tr>
 		<td></td>
-		<td>2025-11-05</td>
 		<td>2025-11-06</td>
 		<td>2025-11-07</td>
 		<td>2025-11-08</td>
 		<td>2025-11-09</td>
 		<td>2025-11-10</td>
 		<td>2025-11-11</td>
+		<td>2025-11-12</td>
 		<td>today +</td>
 	</tr>
 	<tr>
@@ -31,9 +31,9 @@
 		<td>10</td>
 		<td>10</td>
 		<td>10</td>
-		<td>10</td>
 		<td>11</td>
-		<td>+ 1</td>
+		<td>11</td>
+		<td></td>
 	</tr>
 	<tr>
 		<td>better.starts</td>
@@ -77,7 +77,7 @@
 		<td></td>
 		<td></td>
 		<td>52</td>
-		<td>1</td>
+		<td>0</td>
 	</tr>
 </table>
 </sub></sup>
@@ -85,13 +85,13 @@
 <table>
 	<tr>
 		<td></td>
-		<td>2025-11-05</td>
 		<td>2025-11-06</td>
 		<td>2025-11-07</td>
 		<td>2025-11-08</td>
 		<td>2025-11-09</td>
 		<td>2025-11-10</td>
 		<td>2025-11-11</td>
+		<td>2025-11-12</td>
 		<td>today +</td>
 	</tr>
 	<tr>
@@ -112,9 +112,9 @@
 		<td>10</td>
 		<td>10</td>
 		<td>10</td>
-		<td>10</td>
 		<td>11</td>
-		<td>+ 1</td>
+		<td>11</td>
+		<td></td>
 	</tr>
 	<tr>
 		<td>disable.spaceport.repeatables</td>
@@ -158,7 +158,7 @@
 		<td></td>
 		<td></td>
 		<td>52</td>
-		<td>1</td>
+		<td>0</td>
 	</tr>
 </table>
 </sub></sup>
@@ -225,9 +225,9 @@
 		<td></td>
 	</tr>
 	<tr>
-		<td>31</td>
-		<td>8.52</td>
-		<td>0.39</td>
+		<td>32</td>
+		<td>8.25</td>
+		<td>0.38</td>
 		<td></td>
 		<td></td>
 	</tr>
