@@ -21,8 +21,8 @@
 		<td>10</td>
 		<td>10</td>
 		<td>10</td>
-		<td>10</td>
-		<td></td>
+		<td>11</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
@@ -76,8 +76,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>53</td>
-		<td>1</td>
+		<td>54</td>
+		<td>2</td>
 	</tr>
 </table>
 </sub></sup>
@@ -135,8 +135,8 @@
 		<td>10</td>
 		<td>10</td>
 		<td>10</td>
-		<td>10</td>
-		<td></td>
+		<td>11</td>
+		<td>+ 1</td>
 	</tr>
 	<tr>
 		<td>disable.person.ships</td>
@@ -157,8 +157,8 @@
 		<td></td>
 		<td></td>
 		<td></td>
-		<td>53</td>
-		<td>1</td>
+		<td>54</td>
+		<td>2</td>
 	</tr>
 </table>
 </sub></sup>
