@@ -4,13 +4,13 @@
 <table>
 	<tr>
 		<td></td>
-		<td>2025-11-07</td>
 		<td>2025-11-08</td>
 		<td>2025-11-09</td>
 		<td>2025-11-10</td>
 		<td>2025-11-11</td>
 		<td>2025-11-12</td>
 		<td>2025-11-13</td>
+		<td>2025-11-14</td>
 		<td>today +</td>
 	</tr>
 	<tr>
@@ -20,16 +20,16 @@
 		<td>10</td>
 		<td>10</td>
 		<td>10</td>
-		<td>10</td>
 		<td>11</td>
-		<td>+ 1</td>
+		<td>11</td>
+		<td></td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
 		<td>10</td>
 		<td>10</td>
 		<td>10</td>
-		<td>10</td>
+		<td>11</td>
 		<td>11</td>
 		<td>11</td>
 		<td>11</td>
@@ -64,9 +64,9 @@
 		<td>10</td>
 		<td>10</td>
 		<td>10</td>
-		<td>10</td>
 		<td>11</td>
-		<td>+ 1</td>
+		<td>11</td>
+		<td></td>
 	</tr>
 	<tr>
 		<td></td>
@@ -77,7 +77,7 @@
 		<td></td>
 		<td></td>
 		<td>54</td>
-		<td>2</td>
+		<td>0</td>
 	</tr>
 </table>
 </sub></sup>
@@ -85,13 +85,13 @@
 <table>
 	<tr>
 		<td></td>
-		<td>2025-11-07</td>
 		<td>2025-11-08</td>
 		<td>2025-11-09</td>
 		<td>2025-11-10</td>
 		<td>2025-11-11</td>
 		<td>2025-11-12</td>
 		<td>2025-11-13</td>
+		<td>2025-11-14</td>
 		<td>today +</td>
 	</tr>
 	<tr>
@@ -112,16 +112,16 @@
 		<td>10</td>
 		<td>10</td>
 		<td>10</td>
-		<td>10</td>
 		<td>11</td>
-		<td>+ 1</td>
+		<td>11</td>
+		<td></td>
 	</tr>
 	<tr>
 		<td>automata.in.human.space</td>
 		<td>10</td>
 		<td>10</td>
 		<td>10</td>
-		<td>10</td>
+		<td>11</td>
 		<td>11</td>
 		<td>11</td>
 		<td>11</td>
@@ -134,9 +134,9 @@
 		<td>10</td>
 		<td>10</td>
 		<td>10</td>
-		<td>10</td>
 		<td>11</td>
-		<td>+ 1</td>
+		<td>11</td>
+		<td></td>
 	</tr>
 	<tr>
 		<td>disable.person.ships</td>
@@ -158,7 +158,7 @@
 		<td></td>
 		<td></td>
 		<td>54</td>
-		<td>2</td>
+		<td>0</td>
 	</tr>
 </table>
 </sub></sup>
@@ -225,9 +225,9 @@
 		<td></td>
 	</tr>
 	<tr>
-		<td>33</td>
-		<td>8.00</td>
-		<td>0.36</td>
+		<td>34</td>
+		<td>7.76</td>
+		<td>0.35</td>
 		<td></td>
 		<td></td>
 	</tr>
